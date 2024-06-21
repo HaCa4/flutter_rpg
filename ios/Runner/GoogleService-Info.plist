@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyA1FuOc4ULfMIwN2PFdTZw54g6UsFMP0cg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>399278845853</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterRpg</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-masterclass-91fc1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-masterclass-91fc1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:399278845853:ios:874bb73e43ca9e5fb64974</string>
+</dict>
+</plist>

@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "399278845853",
+    "project_id": "flutter-masterclass-91fc1",
+    "storage_bucket": "flutter-masterclass-91fc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399278845853:android:e00d7791178bca47b64974",
+        "android_client_info": {
+          "package_name": "com.example.flutter_rpg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-2EpsXZpyDaXbWam7wj8pzKd_zTE6KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399278845853:android:b3d69326bbe07e78b64974",
+        "android_client_info": {
+          "package_name": "com.example.flutterrpg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-2EpsXZpyDaXbWam7wj8pzKd_zTE6KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399278845853:android:ac1ce5603479c114b64974",
+        "android_client_info": {
+          "package_name": "firebase.json"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz-2EpsXZpyDaXbWam7wj8pzKd_zTE6KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
